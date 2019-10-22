@@ -1,0 +1,30 @@
+html,
+body {
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+/* header area design start */
+.bg-white {
+	background-color: #fff;
+}
+.header-wallpaper {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: -1;
+	overflow: hidden;
+}
+.header-wallpaper img {
+	width: 100%;
+	height: 100%;
+}
+/* navbar brand logo  */
+.logo {
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 2rem;
+	background-color: #197593;
+}
+/* header area design end */
