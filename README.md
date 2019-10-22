@@ -1,10 +1,12 @@
 <<<<<<< HEAD
+
 # qbytesoft_page
 
 qbytesoft official page design
 
 =======
->>>>>>> 5130c7cb52660edeeab857776aaee66ccd8ddcc8
+[live link for this site](https://masud001.github.io/qbytesoft_page/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/masud001/qbytesoft_page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -19,6 +21,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 <<<<<<< HEAD
 
 ## Header 2
@@ -26,14 +29,15 @@ Syntax highlighted code block
 ### Header 3
 
 -   Bulleted
--   List
-=======
+-   # List
+
 ## Header 2
+
 ### Header 3
 
-- Bulleted
-- List
->>>>>>> 5130c7cb52660edeeab857776aaee66ccd8ddcc8
+-   Bulleted
+-   List
+    > > > > > > > 5130c7cb52660edeeab857776aaee66ccd8ddcc8
 
 1. Numbered
 2. List
