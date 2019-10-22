@@ -5,7 +5,7 @@
 qbytesoft official page design
 
 =======
-[live link for this site](https://masud001.github.io/qbytesoft_page/)
+[demo](https://masud001.github.io/qbytesoft_page/)
 
 ## Welcome to GitHub Pages
 
